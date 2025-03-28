@@ -6,8 +6,6 @@ This is a test project for deploying a Django app on Cloud Run and connecting it
 
 ### 1. Project Structure
 
-<pre><code>
-```
 project/
 ├── sqltest/
 │   ├── manage.py
@@ -17,8 +15,6 @@ project/
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
-```
-</code></pre>
 
 ### 2. Environment Variables (set in Cloud Run)
 
